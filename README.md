@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://LazySquid99.io)
 <h1 align="center">Hi 👋, I'm Bikram Mondal</h1>
-<h3 align="center">learning about frontend development and android app devolopment :P</h3>
+<h3 align="center">learning about frontend development :P</h3>
 <img align="right" alt="coading" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazysquid99&label=Profile%20views&color=0e75b6&style=flat" alt="lazysquid99" /> </p>
